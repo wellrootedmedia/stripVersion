@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Strip Version from scripts
- * Plugin URI: http://wellrootedmedia.com/plugins/strip-version-from-scripts/
+ * Plugin URI: http://wellrootedmedia.com/?p=1170
  * Description: This is a simple contact form with a captcha
  * Version: 1.0
  * Author: Well Rooted Media
